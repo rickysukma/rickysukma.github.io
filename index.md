@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+# Ricky Sukma
 
-You can use the [editor on GitHub](https://github.com/rickysukma/rickysukma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**ERP Assistant | Web Developer | PHP Developer**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://linkedin.com/in/ricky-sukma) | [Email](mailto:rickysukma9a@gmail.com)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 📍 Location
 
-```markdown
-Syntax highlighted code block
+Jawa Tengah, Indonesia
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## 💼 Experience
 
-1. Numbered
-2. List
+### PT Menthobi Karyatama Raya
+**ERP Assistant**  
+*January 2022 - Present*  
+Jakarta Timur, Jakarta, Indonesia
 
-**Bold** and _Italic_ and `Code` text
+### PR Konsorsium Komunitas Penabulu - STPI
+**Web Application Specialist**  
+*September 2021 - January 2022*  
+Jakarta Raya, Indonesia
+- Provide technical support for the FO division in processing web-based accounting management applications
+- Develop and improve applications
 
-[Link](url) and ![Image](src)
-```
+### Origin Wiracipta Lestari
+**PHP Developer**  
+*February 2020 - September 2021*  
+Jakarta Selatan, Jakarta, Indonesia
+- Support and maintain clients' ERP OWL Plantation System
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### PT Klik Quick Indonesia
+**Fullstack Web Developer**  
+*June 2020 - September 2020*
+- Build E-commerce with Cordova
+- Develop E-commerce with CodeIgniter
+- Troubleshooting & Bug Fixing
+- Integration Logistic API to calculate shipping costs
 
-### Jekyll Themes
+### PT Imersa Solusi Teknologi (IMSOTEK)
+**Web Developer**  
+*July 2019 - January 2020*  
+Provinsi Yogyakarta, Indonesia
+- Build Information and Administration of Academic Web App
+- Develop Curriculum Module and Master Student Module
+- Integrate Fingerprint (Solution X-100) with Web App
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rickysukma/rickysukma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### PT. XL Axiata Tbk
+**Data Entry Operator**  
+*May 2019 - June 2019*  
+Yogyakarta, Indonesia
 
-### Support or Contact
+### RJ COMP Jogja
+**Instructor**  
+*April 2018 - October 2018*  
+Yogyakarta, Indonesia
+- Teach Basic Corel & Photoshop
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Star Photo & Printing
+**Graphic Designer**  
+*June 2016 - September 2016*  
+Cilacap, Indonesia
+- Retouch studio photos
+- Assist photographer
+- Design banners, posters, and brochures
+
+---
+
+## 🎓 Education
+
+### Universitas AMIKOM Yogyakarta
+**Ahli Madya, Teknik Informatika**  
+*2016 - 2019*
+
+---
+
+## 🛠 Skills
+
+- PHP
+- JavaScript
+- CodeIgniter
+- Laravel
+---
+
+## 🏆 Certifications
+
+*Include relevant certifications here*
+
+---
+
+## 📂 Projects
+
+*Include notable projects here*
+
+---
+
+Feel free to contact me via [email](mailto:rickysukma9a@gmail.com) for any further information or collaboration opportunities.
